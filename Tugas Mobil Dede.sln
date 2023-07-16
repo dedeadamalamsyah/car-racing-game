@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tugas Mobil Dede", "Tugas Mobil Dede.csproj", "{C496A0AD-12F2-4119-B36B-10C0280480C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C496A0AD-12F2-4119-B36B-10C0280480C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C496A0AD-12F2-4119-B36B-10C0280480C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C496A0AD-12F2-4119-B36B-10C0280480C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C496A0AD-12F2-4119-B36B-10C0280480C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4771B85A-F1A8-4F9A-A100-188C518B6801}
+	EndGlobalSection
+EndGlobal
